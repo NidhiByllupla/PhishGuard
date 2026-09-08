@@ -1,0 +1,7 @@
+type,label,input
+url,legitimate,https://www.github.com
+url,legitimate,https://www.wikipedia.org
+url,suspicious,http://192.168.10.24/login
+url,suspicious,http://paypa1-account-login-secure.example.com/verify
+email,legitimate,"Hi, our meeting has been moved to 2 PM tomorrow. Please let me know if that works."
+email,suspicious,"URGENT SECURITY ALERT!!! Your account has been suspended. Verify your account immediately and enter your password. Click here: http://paypa1-account-login-secure.example.com/verify"
