@@ -1,20 +1,30 @@
 # 🛡️ PhishGuard
+
 **Live Demo:** https://phishguard-nidhi.streamlit.app
 
-**GitHub Repository:** https://github.com/NidhiByllupla/PhishGuard
+**PhishGuard** is an independently developed cybersecurity platform that
+analyzes URLs and email content for phishing and social-engineering
+indicators.
 
-PhishGuard is an independently developed cybersecurity platform that analyzes URLs and email content for phishing and social-engineering indicators.
+The application combines transparent rule-based detection with a weighted
+0–100 risk-scoring system, allowing users to see not only whether content
+appears suspicious, but also which technical or social-engineering
+indicators contributed to the result.
 
-The application combines explainable, rule-based detection with a weighted 0–100 risk-scoring system, allowing users to see not only whether content appears suspicious, but also which technical or social-engineering indicators contributed to the result.
-
-> PhishGuard analyzes URL strings and email text locally. It does **not** visit
-> submitted links.
+> PhishGuard analyzes URL strings and email text locally. It does **not**
+> visit submitted links.
 
 ## Why I Built It
 
-Phishing attacks often succeed through a combination of technical deception and psychological manipulation. I created PhishGuard to explore both sides of that problem by analyzing suspicious URL structures alongside common social-engineering tactics such as urgency, credential requests, account threats, and financial pressure.
+Phishing attacks often succeed through a combination of technical deception
+and psychological manipulation. I created PhishGuard to explore both sides
+of that problem by analyzing suspicious URL structures alongside common
+social-engineering tactics such as urgency, credential requests, account
+threats, and financial pressure.
 
-The project was designed around explainability rather than black-box classification, so users can understand how individual warning signs contribute to an overall risk assessment.
+The project was designed around explainability rather than black-box
+classification, so users can understand how individual warning signs
+contribute to an overall risk assessment.
 
 ## Features
 
@@ -50,6 +60,19 @@ PhishGuard evaluates email content for:
 - embedded URLs
 - suspicious embedded URLs
 
+### Evaluation pipeline
+
+PhishGuard now includes a reproducible evaluation workflow that can:
+
+- build a balanced labeled URL dataset from PhishTank and Tranco
+- evaluate the URL analyzer without opening any listed URL
+- calculate accuracy, precision, recall, F1, specificity, FPR, and FNR
+- save false positives and false negatives for error analysis
+- compare performance across multiple score thresholds
+- display committed evaluation metrics in the Streamlit app
+
+See [`evaluation/README.md`](evaluation/README.md).
+
 ## Explainable Risk Scoring
 
 Each indicator contributes a documented weight to the overall score.
@@ -62,6 +85,22 @@ Each indicator contributes a documented weight to the overall score.
 
 Every result includes the indicators that affected the score.
 
+## Technical Design
+
+PhishGuard is organized as a modular Python application with separate
+components for:
+
+- URL feature extraction
+- email/social-engineering analysis
+- weighted risk scoring
+- shared utility functions
+- automated testing
+- reproducible performance evaluation
+- Streamlit-based web deployment
+
+This structure makes the project easier to test, maintain, evaluate, and
+expand.
+
 ## Project Structure
 
 ```text
@@ -73,13 +112,16 @@ PhishGuard/
 │   ├── email_analyzer.py
 │   ├── scoring.py
 │   └── utils.py
+├── evaluation/
+│   ├── fetch_dataset.py
+│   ├── evaluate.py
+│   ├── metrics.py
+│   ├── README.md
+│   └── results/
 ├── tests/
-│   ├── test_url_analyzer.py
-│   └── test_email_analyzer.py
 ├── data/
-│   └── sample_test_cases.csv
 ├── docs/
-│   └── methodology.md
+├── .github/workflows/tests.yml
 ├── README.md
 ├── requirements.txt
 ├── LICENSE
@@ -100,48 +142,46 @@ Run the web application:
 streamlit run app.py
 ```
 
-Then open the local Streamlit address shown in your terminal.
-
 ## Run Tests
 
 ```bash
-pytest
+pytest -q
 ```
 
-## Example
+GitHub Actions also runs the test suite automatically on pushes and pull
+requests to `main`.
 
-A URL such as:
+## Build a 500-URL Evaluation Dataset
 
-```text
-http://paypa1-account-login-secure.example.com/verify
+```bash
+python -m evaluation.fetch_dataset
 ```
 
-may trigger multiple indicators, including:
+This creates a balanced dataset of 250 PhishTank phishing URLs and 250
+Tranco-ranked legitimate domains.
 
-- HTTP usage
-- suspicious account/login terminology
-- excessive hyphenation
-- possible digit substitution
+Then evaluate:
 
-PhishGuard then calculates a risk score and explains each detected feature.
+```bash
+python -m evaluation.evaluate
+```
+
+Generated outputs include:
+
+- `metrics.json`
+- `evaluation_report.md`
+- `evaluation_results.csv`
+- `misclassified_samples.csv`
+- `threshold_sweep.csv`
+- `indicator_breakdown.csv`
+
+**Performance claims should only be published after reviewing these actual
+outputs.**
 
 ## Methodology
 
-See [`docs/methodology.md`](docs/methodology.md) for the current scoring
-approach, design decisions, safety model, and limitations.
-
-## Technical Design
-
-PhishGuard is organized as a modular Python application with separate components for:
-
-- URL feature extraction
-- email/social-engineering analysis
-- weighted risk scoring
-- shared utility functions
-- automated testing
-- Streamlit-based web deployment
-
-This structure makes the project easier to test, maintain, and expand as new detection methods are added.
+See [`docs/methodology.md`](docs/methodology.md) for the scoring approach,
+design decisions, safety model, and limitations.
 
 ## Limitations
 
@@ -152,22 +192,27 @@ gateways, or endpoint-security products.
 Rule-based detection can produce both false positives and false negatives.
 A low score does not guarantee that a URL or email is safe.
 
+Evaluation results depend on the selected datasets, date, class balance,
+and threshold and should not be interpreted as universal real-world
+detection accuracy.
+
 ## Future Improvements
 
 Planned directions include:
 
-- evaluation on a larger labeled dataset
-- precision / recall / F1 measurement
+- error-driven rule refinement using evaluation results
 - email-header analysis
 - improved brand-impersonation detection
 - domain-reputation integrations using safe external APIs
 - optional machine-learning comparison model
+- larger and temporally separated test sets
 
 ## Technologies
 
 - Python
 - Streamlit
 - pytest
+- GitHub Actions
 - `urllib.parse`
 - regular expressions
 - IP address parsing

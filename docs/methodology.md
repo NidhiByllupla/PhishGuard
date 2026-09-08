@@ -87,3 +87,39 @@ report metrics such as:
 
 These metrics should only be published after the dataset and evaluation method
 are documented.
+
+
+## Evaluation Methodology
+
+The evaluation workflow intentionally separates **detection logic** from
+**performance measurement**.
+
+The default URL dataset is balanced between:
+
+- verified-online phishing URLs from PhishTank
+- legitimate domains sampled from the Tranco ranking
+
+The analyzer never opens or connects to any URL from the dataset. Each URL
+is processed strictly as a string.
+
+For binary evaluation, a score of 40 or greater is treated as "flagged"
+because PhishGuard already classifies 40–69 as Medium Risk and 70–100 as
+High Risk.
+
+The pipeline reports:
+
+- accuracy
+- precision
+- recall
+- F1 score
+- specificity
+- false-positive rate
+- false-negative rate
+- confusion-matrix counts
+- threshold sweep
+- indicator frequency
+- false-positive and false-negative samples
+
+Any published result should include the dataset size, data sources, sampling
+date, class balance, and threshold. The results are a measurement on the
+documented evaluation set, not a guarantee of performance on all URLs.
