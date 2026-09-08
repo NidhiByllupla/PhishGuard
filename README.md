@@ -1,21 +1,20 @@
 # 🛡️ PhishGuard
+**Live Demo:** https://phishguard-nidhi.streamlit.app
 
-**PhishGuard** is an independent cybersecurity project that analyzes URLs and
-email content for common phishing and social-engineering indicators.
+**GitHub Repository:** https://github.com/NidhiByllupla/PhishGuard
 
-Instead of returning a black-box "safe" or "malicious" label, PhishGuard uses
-an **explainable risk-scoring system** that shows which features contributed to
-a 0–100 risk score.
+PhishGuard is an independently developed cybersecurity platform that analyzes URLs and email content for phishing and social-engineering indicators.
+
+The application combines explainable, rule-based detection with a weighted 0–100 risk-scoring system, allowing users to see not only whether content appears suspicious, but also which technical or social-engineering indicators contributed to the result.
 
 > PhishGuard analyzes URL strings and email text locally. It does **not** visit
 > submitted links.
 
 ## Why I Built It
 
-Phishing attacks often succeed because technical warning signs and human
-psychology work together. I built PhishGuard to explore both sides of the
-problem: suspicious URL structure and the social-engineering language used to
-pressure users into clicking, signing in, or sharing sensitive information.
+Phishing attacks often succeed through a combination of technical deception and psychological manipulation. I created PhishGuard to explore both sides of that problem by analyzing suspicious URL structures alongside common social-engineering tactics such as urgency, credential requests, account threats, and financial pressure.
+
+The project was designed around explainability rather than black-box classification, so users can understand how individual warning signs contribute to an overall risk assessment.
 
 ## Features
 
@@ -130,6 +129,19 @@ PhishGuard then calculates a risk score and explains each detected feature.
 
 See [`docs/methodology.md`](docs/methodology.md) for the current scoring
 approach, design decisions, safety model, and limitations.
+
+## Technical Design
+
+PhishGuard is organized as a modular Python application with separate components for:
+
+- URL feature extraction
+- email/social-engineering analysis
+- weighted risk scoring
+- shared utility functions
+- automated testing
+- Streamlit-based web deployment
+
+This structure makes the project easier to test, maintain, and expand as new detection methods are added.
 
 ## Limitations
 
