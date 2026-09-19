@@ -175,8 +175,31 @@ Generated outputs include:
 - `threshold_sweep.csv`
 - `indicator_breakdown.csv`
 
-**Performance claims should only be published after reviewing these actual
-outputs.**
+## Evaluation Results
+
+PhishGuard was evaluated on a balanced development dataset of 500 labeled URLs:
+250 phishing URLs from PhishTank and 250 legitimate domains from Tranco.
+
+For evaluation purposes, URLs scoring 5 or higher were classified as phishing. This evaluation threshold is separate from the user-facing Low/Medium/High risk categories shown in the application. At this threshold, the URL analyzer produced:
+
+| Metric | Result |
+|---|---:|
+| Accuracy | 74.2% |
+| Precision | 96.9% |
+| Recall | 50.0% |
+| F1 Score | 66.0% |
+| Specificity | 98.4% |
+
+The evaluation produced 125 true positives, 246 true negatives, 4 false
+positives, and 125 false negatives.
+
+These results reflect performance on the development/evaluation dataset used
+during rule refinement and should not be interpreted as performance on an
+independent held-out test set or as universal real-world phishing detection
+accuracy.
+
+Full evaluation outputs are available in
+[`evaluation/results/`](evaluation/results/).
 
 ## Methodology
 
