@@ -10,14 +10,25 @@ from .utils import normalize_url, hostname_from_url, is_ip_address, dedupe_prese
 SUSPICIOUS_KEYWORDS = [
     "login", "verify", "secure", "account", "update", "confirm",
     "password", "signin", "payment", "wallet", "invoice",
-    "recover", "unlock", "authentication", "security-alert"
+    "recover", "unlock", "authentication", "security-alert",
+"auth", "credential", "verification", "validate", "identity",
+"billing", "suspend", "suspended", "alert", "support",
+"webscr", "token", "session", "authorize"
 ]
 
 URL_SHORTENERS = [
     "bit.ly", "tinyurl.com", "t.co", "goo.gl", "ow.ly",
     "is.gd", "buff.ly", "cutt.ly", "rebrand.ly", "tiny.cc"
 ]
-
+HOSTED_PLATFORM_DOMAINS = [
+    "weebly.com",
+    "web.app",
+    "firebaseapp.com",
+    "framer.app",
+    "wixstudio.com",
+    "netlify.app",
+    "blogspot.com",
+]
 COMMON_BRANDS = [
     "paypal", "microsoft", "apple", "google", "amazon", "netflix",
     "facebook", "instagram", "chase", "wellsfargo", "bankofamerica"
@@ -105,7 +116,23 @@ def analyze_url(url: str) -> dict:
             "Contains an unusually high number of subdomains.",
             str(dot_count + 1) + " domain labels"
         )
-
+    # Hosted website/platform domain
+    hosted_platform = next(
+        (
+            domain for domain in HOSTED_PLATFORM_DOMAINS
+            if hostname == domain or hostname.endswith("." + domain)
+        ),
+        None
+    )
+    
+    if hosted_platform:
+        _add_indicator(
+            indicators,
+            "HOSTED_PLATFORM",
+            5,
+        "Uses a hosted website platform that can be abused for phishing.",
+        hosted_platform
+    )
     # 6. Long URL
     if len(normalized) > 120:
         _add_indicator(
