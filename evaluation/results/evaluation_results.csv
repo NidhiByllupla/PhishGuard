@@ -1,0 +1,501 @@
+sample_id,url,label,label_name,source,source_id,source_metadata,score,risk,prediction,prediction_name,correct,indicator_count,indicators
+PG-0001,https://manulife-sinochem.com/,0,legitimate,Tranco,2134,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0002,https://docs.google.com/presentation/d/e/2PACX-1vTcm4NPKSrzCSMOBgUX5C0AYB6yIRpSgcruq8M-9e7Eq_QVjYmL2I2pYrX43eWRNj7awv4N7T-BVf6j/pub?start=false&amp;loop=false&amp;delayms=3000,1,phishing,PhishTank,8617691,Other,9,LOW RISK,1,phishing,True,1,LONG_URL
+PG-0003,https://hugedomains.com/,0,legitimate,Tranco,1295,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0004,https://likeevideo.ru/,0,legitimate,Tranco,3121,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0005,https://donovan22.weebly.com/,1,phishing,PhishTank,9477064,Comcast,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0006,https://monster.com/,0,legitimate,Tranco,4993,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0007,https://gr-mygov.web.app/,1,phishing,PhishTank,8101675,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0008,https://apptread.dynv6.net/po0y1/x-zonce/,1,phishing,PhishTank,9495408,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0009,https://ledixslca.firebaseapp.com/,1,phishing,PhishTank,8232343,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0010,https://cambridge.org/,0,legitimate,Tranco,669,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0011,https://rollingstone.com/,0,legitimate,Tranco,2432,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0012,https://morningstar.com/,0,legitimate,Tranco,3860,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0013,https://twinrdengine.com/,0,legitimate,Tranco,3550,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0014,https://tr.ee/xNOmKr,1,phishing,PhishTank,9449465,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0015,https://docs.google.com/presentation/d/e/2PACX-1vQuOThtN0a8ylpbxZfzrtpIcmOnR0BKnp6ML9DdtTcwGy1RUQUblM2wIW9N0kbCdPEQvjX4mfknMM5D/pub?start=false&amp;loop=false&amp;delayms=3000,1,phishing,PhishTank,8499441,Other,9,LOW RISK,1,phishing,True,1,LONG_URL
+PG-0016,https://multiple-teams-104491.framer.app/,1,phishing,PhishTank,9473347,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0017,https://suites-en.wixstudio.com/live-en,1,phishing,PhishTank,9407954,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0018,https://docs.google.com/presentation/d/e/2PACX-1vRDW6_3o30VAIscq-nlAH_lBkzqADW63zTCnO12nmBu-cW3CUIFlRvn018ylO9eD-xs-rhBSyeUk070/pub?start=false&amp;loop=false&amp;delayms=3000,1,phishing,PhishTank,8507199,Other,9,LOW RISK,1,phishing,True,1,LONG_URL
+PG-0019,https://docs.google.com/presentation/d/e/2PACX-1vSKxmJwPSaCU_aOEjJ2CCWJZdQBuJo0WvUChxFo9jW7UaPBn3gXfA83bXmtfy_oV3sJfnhlWukkBODW/pub?start=false&loop=false&delayms=3000&slide=id.p,1,phishing,PhishTank,8436572,Other,9,LOW RISK,1,phishing,True,1,LONG_URL
+PG-0020,https://claim-qcx.netlify.app/,1,phishing,PhishTank,9508837,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0021,https://laracasts.com/,0,legitimate,Tranco,2931,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0022,https://dns.pt/,0,legitimate,Tranco,4229,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0023,https://docs.google.com/presentation/d/e/2PACX-1vTG2gI3frU9yzspF05jclmuZFlpI67qFCn3Lg8Rt-vo4FG88h8oh442ELnCFu7-6MwLwWhbCr0F6wBu/pub?start=false&amp;loop=false&amp;delayms=3000,1,phishing,PhishTank,8815880,Other,9,LOW RISK,1,phishing,True,1,LONG_URL
+PG-0024,https://desktop-used.wixstudio.com/enus,1,phishing,PhishTank,9399775,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0025,https://q-r.to/bgE7md,1,phishing,PhishTank,9188423,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0026,https://pardot.com/,0,legitimate,Tranco,4897,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0027,https://iecohuanbao.com/?type=verify&amp;key=bzqultroqv,1,phishing,PhishTank,9452789,Other,4,LOW RISK,0,legitimate,False,1,SUSPICIOUS_KEYWORDS
+PG-0028,https://ytrtyuytuyt.weebly.com/,1,phishing,PhishTank,9273103,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0029,https://dmcdn.net/,0,legitimate,Tranco,4405,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0030,https://tiktokcdn.com/,0,legitimate,Tranco,78,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0031,https://pornone.com/,0,legitimate,Tranco,1322,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0032,https://kinghost.com.br/,0,legitimate,Tranco,2860,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0033,https://surl.li/hcancz,1,phishing,PhishTank,9465302,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0034,https://bac-bvloh.com,1,phishing,PhishTank,9466150,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0035,https://dtesf2.cl/olkhh/kijhg/web/authen.php,1,phishing,PhishTank,9485936,Other,4,LOW RISK,0,legitimate,False,1,SUSPICIOUS_KEYWORDS
+PG-0036,https://docs.google.com/presentation/d/e/2PACX-1vTNnHNa95d4Mbp2KW4rZz-6vRfqwXs9qMuMrrm0s0hEFNWrqhmwjgoUhrOov7jVjjdyL18ZwZRfKt9a/pub?start=false&amp;loop=false&amp;delayms=3000,1,phishing,PhishTank,8827174,Other,9,LOW RISK,1,phishing,True,1,LONG_URL
+PG-0037,https://slack-edge.com/,0,legitimate,Tranco,3578,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0038,http://optikgeneral.com/Webmail/7/Webmail/webmail.php,1,phishing,PhishTank,8429289,Other,12,LOW RISK,1,phishing,True,1,HTTP_SCHEME
+PG-0039,https://zscaler.com/,0,legitimate,Tranco,2868,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0040,https://made-in-china.com/,0,legitimate,Tranco,2487,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0041,https://dnse4.com/,0,legitimate,Tranco,2120,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0042,https://secupasssverif-sg.com/,1,phishing,PhishTank,9520217,SociÃ©tÃ© GÃ©nÃ©rale,0,LOW RISK,0,legitimate,False,0,
+PG-0043,https://visualstudio.com/,0,legitimate,Tranco,541,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0044,https://apps-start-iotrecon.wixstudio.com/open,1,phishing,PhishTank,9467365,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0045,https://google.se/,0,legitimate,Tranco,3336,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0046,https://state.gov/,0,legitimate,Tranco,933,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0047,https://awsdns-05.com/,0,legitimate,Tranco,3811,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0048,https://myeet.m-pages.com/wBXU7A/ee-tm,1,phishing,PhishTank,9013760,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0049,https://4frontccu.weebly.com/,1,phishing,PhishTank,9497025,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0050,https://emailsahwservice.weebly.com/,1,phishing,PhishTank,9377363,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0051,https://tesla.services/,0,legitimate,Tranco,2921,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0052,https://bit.ly/3Yndasg,1,phishing,PhishTank,8057389,Other,12,LOW RISK,1,phishing,True,1,URL_SHORTENER
+PG-0053,https://xhamster.desi/,0,legitimate,Tranco,1059,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0054,http://976tep2sg8.vk.com/away.php?to=https://alcorsecurity.com/irs.gov_taxportaleservice_verify/Form5071C/IRS,1,phishing,PhishTank,8450437,Internal Revenue Service,16,LOW RISK,1,phishing,True,2,HTTP_SCHEME|SUSPICIOUS_KEYWORDS
+PG-0055,https://allegro.938327382939129gfog.sbs/,1,phishing,PhishTank,9420427,Allegro,0,LOW RISK,0,legitimate,False,0,
+PG-0056,https://t.co/l8ey2Sej9I,1,phishing,PhishTank,9348796,Other,12,LOW RISK,1,phishing,True,1,URL_SHORTENER
+PG-0057,https://wordpress-211144-0.cloudclusters.net/Axa/axafixedV4/,1,phishing,PhishTank,9416747,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0058,https://ingage.tech/,0,legitimate,Tranco,2162,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0059,https://medicalnewstoday.com/,0,legitimate,Tranco,2185,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0060,https://q-r.to/bgbvEq,1,phishing,PhishTank,9343250,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0061,https://savesyrianow.com,1,phishing,PhishTank,9448618,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0062,https://crn77.com/,0,legitimate,Tranco,1460,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0063,https://hsforms.com/,0,legitimate,Tranco,2204,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0064,https://glasvezelactiveren.nl/,0,legitimate,Tranco,3319,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0065,https://qrco.de/bfZ4gr?trackingid=x97cDFAL&amp;signature=newsletter,1,phishing,PhishTank,8857386,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0066,https://docs.google.com/presentation/d/e/2PACX-1vR7At5CvdfB6-cI0B263ETNacD7carJ9wKFWuH47hDvh1DZmDgme6w8BZ3x_JHfMbXBXgHHKbGOUteM/pub?start=false&amp;loop=false&amp;delayms=3000,1,phishing,PhishTank,8850212,Other,9,LOW RISK,1,phishing,True,1,LONG_URL
+PG-0067,https://telefonica.com/,0,legitimate,Tranco,3815,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0068,https://l.ead.me/bfU4XB,1,phishing,PhishTank,8811276,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0069,https://ibb.co/,0,legitimate,Tranco,2563,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0070,https://l.ead.me/bfFgEE,1,phishing,PhishTank,8676402,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0071,https://prezi.com/,0,legitimate,Tranco,2897,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0072,https://msmvoice.blogspot.com/,1,phishing,PhishTank,8009566,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0073,https://33across.com/,0,legitimate,Tranco,825,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0074,https://l.ead.me/bfKY3e,1,phishing,PhishTank,8728515,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0075,https://business-standard.com/,0,legitimate,Tranco,4390,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0076,https://ldgrlive-started.wixstudio.com/en-us,1,phishing,PhishTank,9386783,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0077,https://wikiquote.org/,0,legitimate,Tranco,4720,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0078,https://viet69z.me/,0,legitimate,Tranco,1855,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0079,https://spamcop.net/,0,legitimate,Tranco,4876,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0080,http://kitarist.si/,1,phishing,PhishTank,8130582,Other,12,LOW RISK,1,phishing,True,1,HTTP_SCHEME
+PG-0081,https://upenn.edu/,0,legitimate,Tranco,1220,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0082,https://google.co.nz/,0,legitimate,Tranco,3894,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0083,https://nelreports.net/,0,legitimate,Tranco,1792,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0084,https://news.cn/,0,legitimate,Tranco,2849,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0085,https://bitly.com/,0,legitimate,Tranco,3566,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0086,https://salesmartly.com/,0,legitimate,Tranco,4463,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0087,https://narod.ru/,0,legitimate,Tranco,2912,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0088,https://bassbodyfuel.com/nz/airnewzealand/,1,phishing,PhishTank,9511276,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0089,https://phys.org/,0,legitimate,Tranco,2904,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0090,https://footmercato.net/,0,legitimate,Tranco,1475,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0091,https://qrco.de/bfah7j,1,phishing,PhishTank,8872531,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0092,https://wisc.edu/,0,legitimate,Tranco,1471,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0093,https://vkvideo.ru/,0,legitimate,Tranco,2209,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0094,https://envato.com/,0,legitimate,Tranco,2703,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0095,https://fastly.net/,0,legitimate,Tranco,36,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0096,https://history.com/,0,legitimate,Tranco,2876,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0097,https://kunluncan.com/,0,legitimate,Tranco,950,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0098,https://amazonaws.com/,0,legitimate,Tranco,7,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0099,https://estatesync-dev-346221.firebaseapp.com/,1,phishing,PhishTank,8389467,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0100,https://allegrolokalnie.lokalna-9112.shop/oferta/G-Skill-Trident-Z5-DDR5-32GB-6000MHz-CL26-EXPO-RGB-RAM/175712207,1,phishing,PhishTank,9489665,Allegro,0,LOW RISK,0,legitimate,False,0,
+PG-0101,https://jamfcloud.com/,0,legitimate,Tranco,1911,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0102,https://creativecommons.org/,0,legitimate,Tranco,194,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0103,https://amd.com/,0,legitimate,Tranco,1135,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0104,https://elconfidencial.com/,0,legitimate,Tranco,1190,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0105,https://docs.google.com/forms/d/e/1FAIpQLSemiNgQGl-SZchhDYddYBfRfboUZA3KAwpfPXYDipst_skhiw/viewform,1,phishing,PhishTank,9256748,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0106,https://bit.ly/4cYfLAJ,1,phishing,PhishTank,8702821,Other,12,LOW RISK,1,phishing,True,1,URL_SHORTENER
+PG-0107,https://moz.com/,0,legitimate,Tranco,2952,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0108,https://sp29ct-lorqik-biz-femtor-varnel.pages.dev/,1,phishing,PhishTank,9492676,Other,8,LOW RISK,1,phishing,True,1,MANY_HYPHENS
+PG-0109,https://about.me/,0,legitimate,Tranco,3019,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0110,https://service-public.fr/,0,legitimate,Tranco,4973,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0111,https://ix.ru/,0,legitimate,Tranco,3171,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0112,https://hyperliquid.xyz/,0,legitimate,Tranco,4381,top-ranked domain,7,LOW RISK,1,phishing,False,1,SUSPICIOUS_TLD
+PG-0113,https://rogers.com/,0,legitimate,Tranco,4909,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0114,https://bit.ly/46sz6rf,1,phishing,PhishTank,8687133,Other,12,LOW RISK,1,phishing,True,1,URL_SHORTENER
+PG-0115,https://xahani.com/,0,legitimate,Tranco,1738,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0116,https://serverdata.net/,0,legitimate,Tranco,3379,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0117,https://wordwall.net/,0,legitimate,Tranco,4489,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0118,https://jatfiabb.blogspot.com/,1,phishing,PhishTank,9519596,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0119,https://sndcdn.com/,0,legitimate,Tranco,4831,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0120,https://t-mobile.com/,0,legitimate,Tranco,970,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0121,https://pa.gov/,0,legitimate,Tranco,4659,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0122,https://aqui12ecu.webcindario.com/,1,phishing,PhishTank,9306244,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0123,https://foreignpolicy.com/,0,legitimate,Tranco,4605,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0124,https://t.co/1xJaF0jtA0,1,phishing,PhishTank,9168843,Internal Revenue Service,12,LOW RISK,1,phishing,True,1,URL_SHORTENER
+PG-0125,https://filmyfly.cafe/,0,legitimate,Tranco,1787,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0126,https://zpr.io/KfDm8u2WhUqQ,1,phishing,PhishTank,9354962,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0127,https://grammarly.com/,0,legitimate,Tranco,573,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0128,https://uai--cl.weebly.com/,1,phishing,PhishTank,9330325,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0129,https://campaign-archive.com/,0,legitimate,Tranco,4860,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0130,https://qrco.de/bgboBj,1,phishing,PhishTank,9337838,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0131,https://qrco.de/bfIlxw,1,phishing,PhishTank,8709707,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0132,https://rgnameserver.com/,0,legitimate,Tranco,3352,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0133,http://verifi-produbc.webcindario.com,1,phishing,PhishTank,8582976,Other,12,LOW RISK,1,phishing,True,1,HTTP_SCHEME
+PG-0134,https://affirm.com/,0,legitimate,Tranco,3039,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0135,http://verified-violation.github.io/appeal,1,phishing,PhishTank,8927832,Other,12,LOW RISK,1,phishing,True,1,HTTP_SCHEME
+PG-0136,https://qrco.de/bgadQY,1,phishing,PhishTank,9326132,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0137,https://ak-is2.net/,0,legitimate,Tranco,1936,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0138,https://shopifycdn.com/,0,legitimate,Tranco,3427,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0139,https://catarinareginasub.blogspot.com/?fbclid=PAAabxMcfqJnCT5nQKfMPdBrH1oS_qBNfkQwfJ0YPlO-NR14NfbquXMuxLKkI_aem_AfBglSORI4o7_2keA5tB4aWh9oGQ4Q4l9fzgKLcUzHHXL-hQpiUwKo6XJ6F6DhYaQ3Yvo-azzrjIahUunjk7X_Yzn2mfHezepv3iYYjTLbkZ1X_KTPxEdMpij7KipMx0TcEEcHf74yaEy9-dLerPSuu8&amp;m=1,1,phishing,PhishTank,7533160,Other,14,LOW RISK,1,phishing,True,2,HOSTED_PLATFORM|LONG_URL
+PG-0140,https://hepsiburada.com/,0,legitimate,Tranco,3570,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0141,https://bumlam.com/,0,legitimate,Tranco,2600,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0142,https://pub-f93f0e86a9444bacbe8b4f015f8c7ce6.r2.dev/link.html,1,phishing,PhishTank,8255390,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0143,https://biolinky.co/infosever/,1,phishing,PhishTank,9269991,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0144,https://matomo.org/,0,legitimate,Tranco,2638,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0145,https://inps.it/,0,legitimate,Tranco,1413,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0146,https://webhostbox.net/,0,legitimate,Tranco,967,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0147,https://redis.io/,0,legitimate,Tranco,2827,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0148,https://nanshazs.com,1,phishing,PhishTank,9497291,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0149,https://deccanherald.com/,0,legitimate,Tranco,4941,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0150,https://easydns.com/,0,legitimate,Tranco,4116,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0151,https://sol-convert.com/,1,phishing,PhishTank,9504634,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0152,http://j0sundby.duckdns.org,1,phishing,PhishTank,9500850,Other,12,LOW RISK,1,phishing,True,1,HTTP_SCHEME
+PG-0153,https://www.pluswelln.com/web,1,phishing,PhishTank,9436462,Apple,0,LOW RISK,0,legitimate,False,0,
+PG-0154,https://manager.meridian-rentacar.com/,1,phishing,PhishTank,9380580,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0155,https://rfefrgdgfddf.duckdns.org/,1,phishing,PhishTank,9481840,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0156,https://4shared.com/,0,legitimate,Tranco,3820,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0157,https://ni-jp.co,1,phishing,PhishTank,9456395,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0158,https://gdemoideti.ru/,0,legitimate,Tranco,1962,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0159,https://ozkillikvincgaleri.com.tr/wp-includes/ar24,1,phishing,PhishTank,9286884,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0160,https://srmdata.com/,0,legitimate,Tranco,2808,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0161,https://mjhiggs2011.wixsite.com/my-site-1,1,phishing,PhishTank,9257184,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0162,https://kakaku.com/,0,legitimate,Tranco,4475,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0163,https://barrons.com/,0,legitimate,Tranco,4579,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0164,https://catalogo-bb-na-marcha.vercel.app/,1,phishing,PhishTank,9437317,Other,8,LOW RISK,1,phishing,True,1,MANY_HYPHENS
+PG-0165,http://xelvora-gld-larqumi-r3t7dc81.pages.dev/,1,phishing,PhishTank,9476604,Other,20,LOW RISK,1,phishing,True,2,HTTP_SCHEME|MANY_HYPHENS
+PG-0166,https://pub-6502dddebdc447ed9023277db681dd94.r2.dev/vm3.html,1,phishing,PhishTank,8166849,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0167,https://fang.com/,0,legitimate,Tranco,3152,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0168,http://pas58-et3-gl8-cji0-rh2-21n5.pages.dev/,1,phishing,PhishTank,9475621,Other,20,LOW RISK,1,phishing,True,2,HTTP_SCHEME|MANY_HYPHENS
+PG-0169,https://zwzggjbl.shop/soFbneFy/,1,phishing,PhishTank,9513095,Sumitomo Mitsui Banking Corporation,0,LOW RISK,0,legitimate,False,0,
+PG-0170,https://qrco.de/behqax,1,phishing,PhishTank,8421473,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0171,https://preply.com/,0,legitimate,Tranco,4574,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0172,http://pub-d632e1a48ad344649f13deeb4ecf9a3a.r2.dev/artt.html,1,phishing,PhishTank,8498768,Other,12,LOW RISK,1,phishing,True,1,HTTP_SCHEME
+PG-0173,https://qgdsgzeraqfqdfc.blogspot.com/,1,phishing,PhishTank,7461001,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0174,https://betika.com/,0,legitimate,Tranco,1589,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0175,https://glulive.com/,0,legitimate,Tranco,4024,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0176,https://wbc1.webcindario.com/,1,phishing,PhishTank,8329759,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0177,https://typekit.net/,0,legitimate,Tranco,691,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0178,https://gmxgmxgmxgmxmx.weebly.com/,1,phishing,PhishTank,9046909,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0179,https://theglobeandmail.com/,0,legitimate,Tranco,2684,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0180,https://fivecdm.com/,0,legitimate,Tranco,3571,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0181,https://ungu.in/erhaerfhbrthbavwef,1,phishing,PhishTank,9158082,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0182,http://bordereaudedepostsecurise.com/,1,phishing,PhishTank,9204641,Other,12,LOW RISK,1,phishing,True,1,HTTP_SCHEME
+PG-0183,https://distribuidora-nacional.duckdns.org/,1,phishing,PhishTank,9462630,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0184,https://casasbahia.com.br/,0,legitimate,Tranco,4956,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0185,https://de-helpcenter-captcha.web.app/,1,phishing,PhishTank,8245073,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0186,https://frgrgjfeijfegrfeifei.cfolks.pl/cr/fo/auth/log.php,1,phishing,PhishTank,9455558,Other,4,LOW RISK,0,legitimate,False,1,SUSPICIOUS_KEYWORDS
+PG-0187,https://qrco.de/bfSOZO,1,phishing,PhishTank,8795246,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0188,https://l.ead.me/bfMSZr,1,phishing,PhishTank,8743712,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0189,https://xosodaiphat.com/,0,legitimate,Tranco,1661,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0190,https://l.ead.me/bfJc7K,1,phishing,PhishTank,8719075,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0191,https://filmyfly.soy/,0,legitimate,Tranco,1870,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0192,https://time.com/,0,legitimate,Tranco,560,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0193,https://pub-0d275574d47649ed9944322d102ec15d.r2.dev/index.html,1,phishing,PhishTank,9211918,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0194,https://new.express.adobe.com/webpage/MYwNuortC0P4k,1,phishing,PhishTank,8386825,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0195,https://app-use88aception.start.page/,1,phishing,PhishTank,8066468,Facebook,0,LOW RISK,0,legitimate,False,0,
+PG-0196,https://docs.google.com/presentation/d/e/2PACX-1vQ3lVFMOQ43yp6sgrzchwjFbT1_xFEnkUten3RJIs4gsq_SgcZ9RfKOSqVAcUw4TxtccQzzQk9RVtYU/pub?start=true&amp;loop=true&amp;delayms=3000&amp;slide=id.g2ef2b8a2455_0_5,1,phishing,PhishTank,8684491,Other,9,LOW RISK,1,phishing,True,1,LONG_URL
+PG-0197,https://mcafee.com/,0,legitimate,Tranco,505,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0198,https://dnsowl.com/,0,legitimate,Tranco,135,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0199,https://canva.com/,0,legitimate,Tranco,240,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0200,https://usgovcloud.microsoft/,0,legitimate,Tranco,4575,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0201,https://owa-90837.web.app/,1,phishing,PhishTank,8106012,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0202,https://lego.com/,0,legitimate,Tranco,2281,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0203,https://093748ci.weebly.com/,1,phishing,PhishTank,9281967,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0204,https://mingky05.live/,0,legitimate,Tranco,1885,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0205,https://delivery1066n.m93227143.pro/,1,phishing,PhishTank,9508271,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0206,https://sambad.com/,0,legitimate,Tranco,1767,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0207,https://suivi5537r.serv4571563.pro/,1,phishing,PhishTank,9507124,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0208,https://docs.google.com/presentation/d/e/2PACX-1vRm9RYr61iGADYdroh5K0H3g6XZ3yt3eGMvS6ebaUoGuIPkl8bR9sTNBT2370Ymyr3pjP-WTVZI_zxs/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p,1,phishing,PhishTank,8661763,Other,9,LOW RISK,1,phishing,True,1,LONG_URL
+PG-0209,https://sites.google.com/view/567865654678998/,1,phishing,PhishTank,9214647,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0210,https://www.8269sf.com,1,phishing,PhishTank,9497257,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0211,https://www.mymontlhmem.com/,1,phishing,PhishTank,9495162,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0212,http://allegro.73389690-231793.sbs/,1,phishing,PhishTank,9399684,Allegro,12,LOW RISK,1,phishing,True,1,HTTP_SCHEME
+PG-0213,https://featureassets.org/,0,legitimate,Tranco,550,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0214,https://pornoborshch.com/,0,legitimate,Tranco,1735,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0215,https://dropcatch.com/,0,legitimate,Tranco,443,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0216,https://allegro-lokalnie.9209288774g.lat/,1,phishing,PhishTank,9420792,Allegro,0,LOW RISK,0,legitimate,False,0,
+PG-0217,https://abmahnungshilfe.de/img/,1,phishing,PhishTank,9166288,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0218,https://us17.campaign-archive.com/?u=e43179d2475cc2a7dbb38b3f4&id=16b9ea52c1,1,phishing,PhishTank,9192702,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0219,https://capcut.com/,0,legitimate,Tranco,539,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0220,https://dondominio.com/,0,legitimate,Tranco,2130,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0221,https://allegrolokalnie.lokalne-ogloszenie-1221971.click,1,phishing,PhishTank,9456109,Allegro,7,LOW RISK,1,phishing,True,1,SUSPICIOUS_TLD
+PG-0222,https://docs.google.com/presentation/d/e/2PACX-1vRJkIHvYvi1R1Hq7yozmJxVlt6NKWtDKTS6o4RGytVmSGRskVIO3cXLU5v4bfqjQHaD-xvb539CpsQx/pub?start=false&amp;loop=false&amp;delayms=3000,1,phishing,PhishTank,8683066,Other,9,LOW RISK,1,phishing,True,1,LONG_URL
+PG-0223,https://samup.live/check,1,phishing,PhishTank,9463994,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0224,https://neon.tech/,0,legitimate,Tranco,4331,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0225,https://ecnavi.jp/,0,legitimate,Tranco,1675,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0226,https://docs.google.com/presentation/d/e/2PACX-1vQ8F4PoPvz48XV1m5srq1zia6buA4GF_ZlRk1fa2RaurPeEsa1aJ1T_2eivAvJXMWaGgDJqXoSaup0E/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p,1,phishing,PhishTank,8589676,Other,9,LOW RISK,1,phishing,True,1,LONG_URL
+PG-0227,https://goovni.weebly.com/,1,phishing,PhishTank,9322716,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0228,https://qrco.de/bgaxWD,1,phishing,PhishTank,9335772,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0229,https://app.jotform.com/251981481175564,1,phishing,PhishTank,9159031,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0230,https://iotbing.com/,0,legitimate,Tranco,4298,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0231,https://awsdns-41.com/,0,legitimate,Tranco,3392,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0232,https://docs.google.com/presentation/d/e/2PACX-1vQoqp4sBg3geVBBvcdugjz55aElVP1o7YQFmR4D3M35Qg_ltaE0wqdph8R9A2YeEUnaoXzpU_PPZZUg/pub?start=false&loop=false&delayms=3000,1,phishing,PhishTank,8813217,Other,9,LOW RISK,1,phishing,True,1,LONG_URL
+PG-0233,https://easebar.com/,0,legitimate,Tranco,586,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0234,https://urlz.fr/vd1W,1,phishing,PhishTank,9475796,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0235,https://www.digitale-clee.com,1,phishing,PhishTank,9467177,SociÃ©tÃ© GÃ©nÃ©rale,0,LOW RISK,0,legitimate,False,0,
+PG-0236,https://info405980.wixsite.com/my-site-1,1,phishing,PhishTank,9258006,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0237,https://cindonsi.weebly.com/,1,phishing,PhishTank,9103874,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0238,https://stackexchange.com/,0,legitimate,Tranco,1610,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0239,https://plos.org/,0,legitimate,Tranco,1169,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0240,https://nssvc.net/,0,legitimate,Tranco,3662,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0241,https://allegrolokalnie.oferta-211874.cfd,1,phishing,PhishTank,9509303,Allegro,0,LOW RISK,0,legitimate,False,0,
+PG-0242,https://minhngoc.net.vn/,0,legitimate,Tranco,1711,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0243,https://qrco.de/bfJ0MB,1,phishing,PhishTank,8709779,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0244,https://bradesco.segurancanetempresa.pro/inicio,1,phishing,PhishTank,9399588,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0245,https://wpsdns.com/,0,legitimate,Tranco,2273,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0246,https://betterstackdata.com/,0,legitimate,Tranco,4076,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0247,https://l.ead.me/bgbRos,1,phishing,PhishTank,9335943,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0248,https://docs.google.com/presentation/d/e/2PACX-1vT7cWcjuXAwCMHQMm7EwdHDu69dmhxehwVpaV9N442dqGWTDb0IzaEEhK6PRHhMZQZvYOgmNcyZ4oXT/pub?start=false&loop=false&delayms=3000#slide=id.p,1,phishing,PhishTank,8192374,Other,9,LOW RISK,1,phishing,True,1,LONG_URL
+PG-0249,https://glpals.com/,0,legitimate,Tranco,3687,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0250,https://nnfems.com/Webmail/20/Webmail/webmail.php,1,phishing,PhishTank,8596764,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0251,https://q-r.to/bgbPQHcfgfcdf,1,phishing,PhishTank,9333823,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0252,https://ssstik.io/,0,legitimate,Tranco,1443,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0253,https://web-entwicklungsupdate.weebly.com/,1,phishing,PhishTank,9399930,Other,9,LOW RISK,1,phishing,True,2,SUSPICIOUS_KEYWORDS|HOSTED_PLATFORM
+PG-0254,https://shopee.ph/,0,legitimate,Tranco,1056,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0255,https://www.dropbox.com/scl/fi/hnwyidc4dnylpuv256oug/BT.paper?dl=0&rlkey=xvm4qwahbr2ciytsnb9hykhlw,1,phishing,PhishTank,8694738,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0256,https://heylink.me/,0,legitimate,Tranco,2617,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0257,https://metafb-o4hcv2v.firebaseapp.com/,1,phishing,PhishTank,8014594,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0258,https://apple-cloudkit.com/,0,legitimate,Tranco,2234,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0259,https://docs.google.com/presentation/d/e/2PACX-1vTqJOKSNQ7YCnTwuEiO1OuAUWh0dC47bhCAAOsxROSbjvG1WHdyjBGp3MbKmQ0nxp3V__1n99hD99rX/pub?start=false&amp;loop=false&amp;delayms=3000,1,phishing,PhishTank,8800553,Other,9,LOW RISK,1,phishing,True,1,LONG_URL
+PG-0260,https://dafont.com/,0,legitimate,Tranco,1163,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0261,https://spo-msedge.net/,0,legitimate,Tranco,428,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0262,https://q-r.to/bfMMi2,1,phishing,PhishTank,8741076,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0263,https://franceinfo.fr/,0,legitimate,Tranco,1102,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0264,https://9013351951-1.github.io/8066237985/,1,phishing,PhishTank,8892164,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0265,https://renueva-net-acc.com/captcha,1,phishing,PhishTank,9481522,Netflix,0,LOW RISK,0,legitimate,False,0,
+PG-0266,https://qrco.de/bfAZzhSCdvSpSOVsaeEW,1,phishing,PhishTank,8630208,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0267,https://starlink.com/,0,legitimate,Tranco,913,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0268,https://kuxmy.top/MUxdAEVE,1,phishing,PhishTank,9511625,Sumitomo Mitsui Banking Corporation,7,LOW RISK,1,phishing,True,1,SUSPICIOUS_TLD
+PG-0269,https://e-msedge.net/,0,legitimate,Tranco,2529,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0270,https://ledgestartedapps.wixstudio.com/us-en,1,phishing,PhishTank,9425647,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0271,https://acccountgmx1.weebly.com/,1,phishing,PhishTank,9030430,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0272,https://byteglb.com/,0,legitimate,Tranco,460,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0273,https://important-behavior-363054.framer.app/,1,phishing,PhishTank,9434090,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0274,https://shutterstock.com/,0,legitimate,Tranco,1807,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0275,https://indexfroms.weebly.com/,1,phishing,PhishTank,9467983,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0276,https://dioragames.firebaseapp.com/,1,phishing,PhishTank,8325362,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0277,https://new.express.adobe.com/webpage/qVeY5AaUPpcwg,1,phishing,PhishTank,8482233,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0278,https://bestbuy.com/,0,legitimate,Tranco,753,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0279,https://fwgwz4.webwave.dev/,1,phishing,PhishTank,8259217,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0280,https://tplinknbu.com/,0,legitimate,Tranco,983,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0281,https://bafkreic2hzj6fyiflbjbbwndqq4wtb5rajijopy33do6bect3fko3o7st4.ipfs.dweb.link/,1,phishing,PhishTank,8431005,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0282,https://tiktok-row.net/,0,legitimate,Tranco,4134,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0283,https://hotjar.com/,0,legitimate,Tranco,593,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0284,https://q-r.to/bgcZeO,1,phishing,PhishTank,9345833,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0285,https://sites.google.com/view/roste/accueil,1,phishing,PhishTank,8610868,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0286,https://www.gov.pl/,0,legitimate,Tranco,3867,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0287,https://qrco.de/bgbu2E,1,phishing,PhishTank,9344461,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0288,https://alamy.com/,0,legitimate,Tranco,4254,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0289,https://us.com/,0,legitimate,Tranco,1127,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0290,https://apps-chnagelly.wixstudio.com/en-us,1,phishing,PhishTank,9447105,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0291,https://ur0.jp/jmMMc,1,phishing,PhishTank,8703561,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0292,https://elmundo.es/,0,legitimate,Tranco,996,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0293,https://metafb-2jle6gn.firebaseapp.com/,1,phishing,PhishTank,8013564,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0294,https://t.me/,0,legitimate,Tranco,104,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0295,https://mediago.io/,0,legitimate,Tranco,2304,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0296,https://sites.google.com/view/midineroapp11/,1,phishing,PhishTank,8226843,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0297,https://awsdns-26.com/,0,legitimate,Tranco,3344,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0298,https://kuiecunlogie.webflow.io/,1,phishing,PhishTank,9410246,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0299,https://kinoafisha.info/,0,legitimate,Tranco,4713,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0300,https://midasplayer.cloud/,0,legitimate,Tranco,4242,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0301,https://docs.google.com/presentation/d/e/2PACX-1vRUPPcsbyrrM1kD_PAsp2fGlrbuLmR0cxWAN40WhartSDrXiNxZXgLrk0TJbdGz8FAtd_OODqAsJZN7/pub?start=false&amp;loop=false&amp;delayms=3000,1,phishing,PhishTank,8535069,Other,9,LOW RISK,1,phishing,True,1,LONG_URL
+PG-0302,https://pinterest.com/,0,legitimate,Tranco,57,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0303,https://usercontent.goog/,0,legitimate,Tranco,891,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0304,https://new.express.adobe.com/webpage/aeoyhX9d5UlWA,1,phishing,PhishTank,8358592,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0305,https://docs.google.com/presentation/d/e/2PACX-1vQdZD6A6pdUzIkoR0GhDCOJ2lhhI8x07n9lO4KNAYQNdpnAZ_rhE_ZYKHD4xuK8cgKdtmnbVcLwxUS9/pub?start=false&amp;loop=false&amp;delayms=3000,1,phishing,PhishTank,8561414,Other,9,LOW RISK,1,phishing,True,1,LONG_URL
+PG-0306,https://sicredi.com.br/,0,legitimate,Tranco,4582,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0307,https://bradesco.netpjreapro.info/,1,phishing,PhishTank,9469322,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0308,https://bit.ly/4lUfMd7,1,phishing,PhishTank,9156164,Other,12,LOW RISK,1,phishing,True,1,URL_SHORTENER
+PG-0309,https://storage.googleapis.com/arsenalpart/chahirt/chahirt/charitttt/chattallerchatt/RAMADAAAAAA.html#redirect.html?3844840Ug17205159YH330679884hD9739Jh24RZr244984dm,1,phishing,PhishTank,9360175,Internal Revenue Service,9,LOW RISK,1,phishing,True,1,LONG_URL
+PG-0310,https://indd.adobe.com/view/ddb8dfc8-75e0-4743-b38f-a51f5d047ea4,1,phishing,PhishTank,8432734,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0311,https://arizona.edu/,0,legitimate,Tranco,2602,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0312,https://namecheaphosting.com/,0,legitimate,Tranco,1149,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0313,https://kroger.com/,0,legitimate,Tranco,3697,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0314,https://xsolla.com/,0,legitimate,Tranco,3533,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0315,https://tesla.com/,0,legitimate,Tranco,1043,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0316,https://auth0edge.com/,0,legitimate,Tranco,2651,top-ranked domain,18,LOW RISK,1,phishing,False,2,SUSPICIOUS_KEYWORDS|DIGIT_SUBSTITUTION
+PG-0317,https://smithsonianmag.com/,0,legitimate,Tranco,2689,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0318,https://cio467681299.firebaseapp.com/,1,phishing,PhishTank,8476724,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0319,https://docs.google.com/drawings/d/1IIPM4Lxizn2vWDpnQX3t_-TCmS__o0ukYGja4536KMI/edit,1,phishing,PhishTank,9495016,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0320,https://iastate.edu/,0,legitimate,Tranco,3589,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0321,https://vietnam.vn/,0,legitimate,Tranco,1299,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0322,https://iionads.com/,0,legitimate,Tranco,3090,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0323,https://tinyurl.com/59ashnns,1,phishing,PhishTank,9334588,Other,12,LOW RISK,1,phishing,True,1,URL_SHORTENER
+PG-0324,https://akadns.net/,0,legitimate,Tranco,27,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0325,https://supertms.com/,0,legitimate,Tranco,543,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0326,https://dgdgdfkjgdfhgrudgkjdfhgrdgfd-8840.twil.io/dfgdjfgjrdf.html,1,phishing,PhishTank,9369796,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0327,http://allegro.102988g8g8g.pl/lokalnie/?id=5x1b6F1w5U8Q6q3w8V6o2B9f7K2a2B4R,1,phishing,PhishTank,9483936,Allegro,12,LOW RISK,1,phishing,True,1,HTTP_SCHEME
+PG-0328,https://charter.net/,0,legitimate,Tranco,1329,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0329,https://3242329-gwdg.weebly.com/,1,phishing,PhishTank,9107680,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0330,https://markjon22.wixsite.com/my-site-1,1,phishing,PhishTank,9210364,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0331,https://tagesspiegel.de/,0,legitimate,Tranco,3345,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0332,https://businesswire.com/,0,legitimate,Tranco,1348,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0333,https://futbol-libres.su/,0,legitimate,Tranco,1780,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0334,https://a5cf1319-def2-4f7e-b4c3-1cb20dd2fcbc-00-12wmrj2ikpftl.kirk.replit.dev:8000/,1,phishing,PhishTank,9417894,Other,16,LOW RISK,1,phishing,True,2,MANY_HYPHENS|NONSTANDARD_PORT
+PG-0335,https://hitierlallement.grv9710620.pro/,1,phishing,PhishTank,9429770,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0336,https://docs.google.com/drawings/d/1A9Qu-f8FFmRY69RZ8OFP2Qd3x9J7TB70poa7LFplk4w/edit,1,phishing,PhishTank,9416872,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0337,https://google.com.py/,0,legitimate,Tranco,4549,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0338,https://allegrolokalnie.pl-585439.sbs,1,phishing,PhishTank,9491573,Allegro,0,LOW RISK,0,legitimate,False,0,
+PG-0339,https://orf.at/,0,legitimate,Tranco,3442,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0340,https://jsnectrese.web.app/,1,phishing,PhishTank,8598387,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0341,https://bit.ly/4fZL1BA,1,phishing,PhishTank,8730522,Other,12,LOW RISK,1,phishing,True,1,URL_SHORTENER
+PG-0342,https://docs.google.com/presentation/d/e/2PACX-1vRycUQWQClaCHxvi1LI1G-avvum2q27zMJWvMx-i5y0fKk5lWxQurfIHyMvc-DMGKqFZDGIrXj3s8NZ/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p,1,phishing,PhishTank,8960949,Other,9,LOW RISK,1,phishing,True,1,LONG_URL
+PG-0343,https://metalsb.com.br/app/,1,phishing,PhishTank,9516998,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0344,https://chip.de/,0,legitimate,Tranco,2896,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0345,http://eraxil-plink-7i36fg-pthn-jravik.pages.dev/,1,phishing,PhishTank,9479355,Other,20,LOW RISK,1,phishing,True,2,HTTP_SCHEME|MANY_HYPHENS
+PG-0346,https://index.hr/,0,legitimate,Tranco,1430,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0347,https://vl16ko.info/7oBbyg,1,phishing,PhishTank,9520704,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0348,https://mps.gov.cn/,0,legitimate,Tranco,1107,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0349,https://tw1.ru/,0,legitimate,Tranco,3998,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0350,https://starmakerstudios.com/,0,legitimate,Tranco,2994,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0351,https://webcontentassessor.com/,0,legitimate,Tranco,3195,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0352,https://ykm.de/05f65c75340044aa,1,phishing,PhishTank,8972117,Internal Revenue Service,0,LOW RISK,0,legitimate,False,0,
+PG-0353,https://q-r.to/bfMrDS,1,phishing,PhishTank,8745278,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0354,https://canvas-user-content.com/,0,legitimate,Tranco,2418,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0355,http://allegro.ofeta-62941432.shop,1,phishing,PhishTank,9467646,Allegro,12,LOW RISK,1,phishing,True,1,HTTP_SCHEME
+PG-0356,http://www.gov-parkingqe.top/com/,1,phishing,PhishTank,9437382,Other,19,LOW RISK,1,phishing,True,2,HTTP_SCHEME|SUSPICIOUS_TLD
+PG-0357,https://bradesco.atualizandocomseguranca.digital/,1,phishing,PhishTank,9490403,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0358,https://imdb.com/,0,legitimate,Tranco,258,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0359,https://addtoany.com/,0,legitimate,Tranco,489,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0360,https://agoda.com/,0,legitimate,Tranco,859,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0361,https://amazon.nl/,0,legitimate,Tranco,3597,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0362,https://rostelecom.ru/,0,legitimate,Tranco,3227,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0363,https://rf-pending-medicare-hotdoc.com/pages/captcha.php,1,phishing,PhishTank,9445435,Other,8,LOW RISK,1,phishing,True,1,MANY_HYPHENS
+PG-0364,https://zixombra1.weebly.com/,1,phishing,PhishTank,9006308,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0365,https://bradesco.suporteredejuridico.pro/,1,phishing,PhishTank,9452533,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0366,http://allegro.oferta-83902741.cfd,1,phishing,PhishTank,9358511,Allegro,12,LOW RISK,1,phishing,True,1,HTTP_SCHEME
+PG-0367,https://l.ead.me/bganUg,1,phishing,PhishTank,9328282,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0368,https://lenjeu.firebaseapp.com/,1,phishing,PhishTank,9365051,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0369,https://ptt.cc/,0,legitimate,Tranco,1508,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0370,https://www.google.com/url?q=https://pub-9e06cf401c8a495490150ee84add9bc3.r2.dev/https-id.ionos.com-identifier.htm#d2EtMDFAbmVhdGVjaC5jb20,1,phishing,PhishTank,8809310,Other,9,LOW RISK,1,phishing,True,1,LONG_URL
+PG-0371,https://redcross.org/,0,legitimate,Tranco,3899,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0372,https://google.com.au/,0,legitimate,Tranco,2201,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0373,https://docs.google.com/presentation/d/e/2PACX-1vSDHtZtj7UZVSXt-vJkH_BCyUJ7EOAcZl4_lQYTBIMmniNKO0Wghz57zKMrx5ze3HbTCdO4NeXwEMdq/pub?start=false&amp;loop=false&amp;delayms=3000,1,phishing,PhishTank,8513419,Other,9,LOW RISK,1,phishing,True,1,LONG_URL
+PG-0374,https://aps.org/,0,legitimate,Tranco,4891,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0375,https://l.ead.me/bgbZwl,1,phishing,PhishTank,9335909,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0376,https://ipfs.best-practice.se/ipfs/bafybeiboyaek3ag2kvurcl4gy4cntezlavvnoe6rkrg7oj72jtyn3zrlru,1,phishing,PhishTank,8131427,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0377,https://tr.ee/16L6nK,1,phishing,PhishTank,9499085,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0378,http://pub-f46924b64d9641f6a0cbcfdc1cd89d24.r2.dev/oautth.html,1,phishing,PhishTank,8514974,Other,26,LOW RISK,1,phishing,True,2,HTTP_SCHEME|DIGIT_SUBSTITUTION
+PG-0379,https://wikidot.com/,0,legitimate,Tranco,3639,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0380,https://mayoclinic.org/,0,legitimate,Tranco,876,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0381,https://q-r.to/bgcCzc,1,phishing,PhishTank,9341634,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0382,https://qrco.de/bfMKkZ,1,phishing,PhishTank,8741181,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0383,https://flxerros2.firebaseapp.com/,1,phishing,PhishTank,8041682,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0384,https://bbc.com/,0,legitimate,Tranco,210,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0385,https://arin.net/,0,legitimate,Tranco,3348,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0386,https://amocrm.ru/,0,legitimate,Tranco,2015,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0387,https://nba.com/,0,legitimate,Tranco,2327,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0388,http://c9ah9-zih-co3f-cmfeam-cwdtk.pages.dev/,1,phishing,PhishTank,9492426,Other,20,LOW RISK,1,phishing,True,2,HTTP_SCHEME|MANY_HYPHENS
+PG-0389,https://tinyurl.com/dhgscvffsz,1,phishing,PhishTank,9254302,Other,12,LOW RISK,1,phishing,True,1,URL_SHORTENER
+PG-0390,https://mathworks.com/,0,legitimate,Tranco,2848,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0391,https://awsdns-35.com/,0,legitimate,Tranco,3512,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0392,https://zqdtiuqvbzzjf.firebaseapp.com/,1,phishing,PhishTank,9058898,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0393,https://snapkit.com/,0,legitimate,Tranco,2217,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0394,https://klelnanzeigen-deutch.service-de249264.info/getpaymentm/234951427/m9,1,phishing,PhishTank,9477990,Other,4,LOW RISK,0,legitimate,False,1,SUSPICIOUS_KEYWORDS
+PG-0395,https://incognia.com/,0,legitimate,Tranco,2795,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0396,https://heyzine.com/,0,legitimate,Tranco,3154,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0397,https://evernote.com/,0,legitimate,Tranco,2124,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0398,https://allawnos.com/,0,legitimate,Tranco,357,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0399,https://mail.ru/,0,legitimate,Tranco,12,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0400,https://bpcl.in/,0,legitimate,Tranco,1748,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0401,https://fortinet.com/,0,legitimate,Tranco,2948,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0402,https://allegro-lokalnie.328129goi48.xyz/,1,phishing,PhishTank,9459255,Allegro,7,LOW RISK,1,phishing,True,1,SUSPICIOUS_TLD
+PG-0403,https://aictec-access-request-portal.firebaseapp.com/,1,phishing,PhishTank,9121758,Other,13,LOW RISK,1,phishing,True,2,HOSTED_PLATFORM|MANY_HYPHENS
+PG-0404,https://vk.ru/,0,legitimate,Tranco,174,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0405,https://altervista.org/,0,legitimate,Tranco,2396,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0406,https://www.dropbox.com/scl/fi/5lpys5czvhxw5q9htjvt2/British-Telecom.paper?rlkey=2rp8r1eqxoupdew3bf6iw7k3p&dl=0,1,phishing,PhishTank,8677055,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0407,https://ninisite.com/,0,legitimate,Tranco,1557,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0408,https://suumo.jp/,0,legitimate,Tranco,1301,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0409,https://strln.net/,0,legitimate,Tranco,4631,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0410,https://l.ead.me/bfJ1gl,1,phishing,PhishTank,8718877,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0411,https://kaggle.com/,0,legitimate,Tranco,4448,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0412,https://gulfnews.com/,0,legitimate,Tranco,4068,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0413,https://cmoa.jp/,0,legitimate,Tranco,1522,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0414,https://achffe.blogspot.com/,1,phishing,PhishTank,8370873,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0415,https://f421f7b11af48bef2d.s3.ap-south-1.amazonaws.com/z9DbMMTY,1,phishing,PhishTank,9306646,Other,10,LOW RISK,1,phishing,True,1,MANY_SUBDOMAINS
+PG-0416,https://talktalkrecomms.weebly.com/,1,phishing,PhishTank,9083603,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0417,http://expertisap.com.br/regroup/tallness/?email=redacted@abuse.ionos.com,1,phishing,PhishTank,9265276,Other,30,LOW RISK,1,phishing,True,2,HTTP_SCHEME|AT_SYMBOL
+PG-0418,https://core.microsoft/,0,legitimate,Tranco,2652,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0419,https://secureserver.net/,0,legitimate,Tranco,1996,top-ranked domain,4,LOW RISK,0,legitimate,True,1,SUSPICIOUS_KEYWORDS
+PG-0420,https://amazon.com.mx/,0,legitimate,Tranco,1045,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0421,https://cointrkercdn.wixstudio.com/en-ca,1,phishing,PhishTank,9424028,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0422,https://turkiye.gov.tr/,0,legitimate,Tranco,1357,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0423,https://new.express.adobe.com/webpage/6e10ObtiVIphn,1,phishing,PhishTank,8454648,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0424,https://q-r.to/bgdVnD,1,phishing,PhishTank,9351159,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0425,https://855454510415454.hyperphp.com/?i=1,1,phishing,PhishTank,9407050,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0426,https://chapturist.com/,0,legitimate,Tranco,4585,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0427,https://grammarly.net/,0,legitimate,Tranco,4653,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0428,https://desync.com/,0,legitimate,Tranco,4756,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0429,https://amazon.es/,0,legitimate,Tranco,711,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0430,https://justice.gov/,0,legitimate,Tranco,2200,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0431,https://toyhou.se/,0,legitimate,Tranco,1479,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0432,https://pagge-verifiield-sitte.vercel.app/active,1,phishing,PhishTank,9470386,Facebook,0,LOW RISK,0,legitimate,False,0,
+PG-0433,https://cpi.ad.jp/,0,legitimate,Tranco,2685,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0434,https://seguryty-cred-miles-2026--segurity5445.replit.app/index2.php,1,phishing,PhishTank,9506599,Other,8,LOW RISK,1,phishing,True,1,MANY_HYPHENS
+PG-0435,https://firetvcaptiveportal.com/,0,legitimate,Tranco,478,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0436,https://edu-servers.net/,0,legitimate,Tranco,3538,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0437,https://alipay.com/,0,legitimate,Tranco,1130,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0438,http://q-r.to/ZQ,1,phishing,PhishTank,8177045,Other,12,LOW RISK,1,phishing,True,1,HTTP_SCHEME
+PG-0439,https://info.dnb.no,1,phishing,PhishTank,7472400,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0440,https://ngenix.net/,0,legitimate,Tranco,528,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0441,http://homepage-trezxr-us.wixstudio.com/en-us,1,phishing,PhishTank,9462141,Other,17,LOW RISK,1,phishing,True,2,HTTP_SCHEME|HOSTED_PLATFORM
+PG-0442,https://emarketer.com/,0,legitimate,Tranco,4883,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0443,https://appstartin-ldger.wixstudio.com/login,1,phishing,PhishTank,9419587,Other,9,LOW RISK,1,phishing,True,2,SUSPICIOUS_KEYWORDS|HOSTED_PLATFORM
+PG-0444,https://docs.google.com/presentation/d/e/2PACX-1vRP69F3mwSbTUXSYZB8dr-zJx_R5r4fWZ58y2MDX17FrXcSuqndM22YZigisFRkV9_ODix89t8e2Tat/pub?start=false&amp;loop=false&amp;delayms=3000,1,phishing,PhishTank,9023729,Other,9,LOW RISK,1,phishing,True,1,LONG_URL
+PG-0445,https://dirozadelemile.web.app/,1,phishing,PhishTank,9058937,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0446,https://fran33.weebly.com/,1,phishing,PhishTank,9047852,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0447,https://q-r.to/bgaqQi,1,phishing,PhishTank,9328098,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0448,https://secure-tompkinsonline.weebly.com/,1,phishing,PhishTank,9347969,Other,9,LOW RISK,1,phishing,True,2,SUSPICIOUS_KEYWORDS|HOSTED_PLATFORM
+PG-0449,https://inicioinusual365.webcindario.com/,1,phishing,PhishTank,9406087,Microsoft,0,LOW RISK,0,legitimate,False,0,
+PG-0450,https://docs.google.com/presentation/d/e/2PACX-1vSieehiJgDjQtO7yNpLsjBBR4nMjfh5MWvQaN1gV5nSbxpLJeWwGsoou-utMj5hLVkzMFlQ9vGozAOO/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p,1,phishing,PhishTank,9437728,Other,9,LOW RISK,1,phishing,True,1,LONG_URL
+PG-0451,https://lineheightborder.web.app/,1,phishing,PhishTank,8518479,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0452,https://docs.google.com/presentation/d/e/2PACX-1vTOtW5rlkATAvpL8uejHhGA4uJv_7WesvotYxijqpMZNotOcs0LPUdOKIlaS4XG4uZZuzdeQsgKIuby/pub?start=false&amp;loop=false&amp;delayms=3000,1,phishing,PhishTank,8529695,Other,9,LOW RISK,1,phishing,True,1,LONG_URL
+PG-0453,https://hwcdn.ru/,0,legitimate,Tranco,2050,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0454,https://deezer.com/,0,legitimate,Tranco,1930,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0455,https://handelsblatt.com/,0,legitimate,Tranco,4142,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0456,https://thecottonbank.weebly.com/,1,phishing,PhishTank,9491426,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0457,https://docs.google.com/presentation/d/e/2PACX-1vRjK7910J5K_0LFxz3IO6HhKNyOuPq6QMzs0tLMDuGhaPJ8lUjd6Lj-1sPYVocqvSAys3FAVkKdwgZr/pub?start=false&loop=false&delayms=3000&slide=id.g1f87997393_0_787,1,phishing,PhishTank,8809892,Other,9,LOW RISK,1,phishing,True,1,LONG_URL
+PG-0458,http://allegrolokalne.188139.click,1,phishing,PhishTank,9461739,Allegro,19,LOW RISK,1,phishing,True,2,HTTP_SCHEME|SUSPICIOUS_TLD
+PG-0459,https://l.ead.me/bfFvcI,1,phishing,PhishTank,8676381,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0460,https://oreilly.com/,0,legitimate,Tranco,2005,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0461,https://more-trzor.wixstudio.com/us-en,1,phishing,PhishTank,9438674,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0462,https://nikkei.com/,0,legitimate,Tranco,776,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0463,https://ambitionmu.com/ZipuP/Sites/index.html,1,phishing,PhishTank,9125679,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0464,https://melissa304c.myportfolio.com/,1,phishing,PhishTank,8057245,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0465,https://oath.com/,0,legitimate,Tranco,4787,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0466,https://sp12ct-hordik-biz-kamsel-frondor.pages.dev/,1,phishing,PhishTank,9499983,Other,8,LOW RISK,1,phishing,True,1,MANY_HYPHENS
+PG-0467,https://doubleclick.net/,0,legitimate,Tranco,37,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0468,https://public-suite-app-trez.typedream.app/,1,phishing,PhishTank,9482055,Other,8,LOW RISK,1,phishing,True,1,MANY_HYPHENS
+PG-0469,https://registromed009.pro/,1,phishing,PhishTank,9458949,Amazon.com,0,LOW RISK,0,legitimate,False,0,
+PG-0470,https://www.pcn-noticyo.top/com,1,phishing,PhishTank,9430554,Other,7,LOW RISK,1,phishing,True,1,SUSPICIOUS_TLD
+PG-0471,https://intelligent-fact-583157.framer.app/,1,phishing,PhishTank,9488798,Comcast,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0472,https://bitdefender.net/,0,legitimate,Tranco,782,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0473,https://gstatic.com/,0,legitimate,Tranco,4,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0474,https://mozilla.org/,0,legitimate,Tranco,100,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0475,https://cert-000049-0000c5.web.app/,1,phishing,PhishTank,8151124,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0476,https://ebay.com.au/,0,legitimate,Tranco,4504,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0477,https://new.express.adobe.com/webpage/U2cxRbBSHVGet,1,phishing,PhishTank,8538554,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0478,https://treasury.gov/,0,legitimate,Tranco,2859,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0479,https://beget.ru/,0,legitimate,Tranco,1998,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0480,https://docs.google.com/drawings/d/1byFH_x4u4H3u5mc90ENjOiFrTpz_-jyuZ6JT5Ql6J78/edit,1,phishing,PhishTank,9442148,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0481,https://wnacg.com/,0,legitimate,Tranco,1543,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0482,https://skybridge.click/,0,legitimate,Tranco,2236,top-ranked domain,7,LOW RISK,1,phishing,False,1,SUSPICIOUS_TLD
+PG-0483,https://healthline.com/,0,legitimate,Tranco,978,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0484,https://uselivewallet.wixstudio.com/us-en,1,phishing,PhishTank,9405908,Other,9,LOW RISK,1,phishing,True,2,SUSPICIOUS_KEYWORDS|HOSTED_PLATFORM
+PG-0485,https://balance.nzpikpak.dpdns.org/,1,phishing,PhishTank,9417644,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0486,https://q-r.to/bgbfah,1,phishing,PhishTank,9335861,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0487,https://knt9.xyz/,0,legitimate,Tranco,2624,top-ranked domain,7,LOW RISK,1,phishing,False,1,SUSPICIOUS_TLD
+PG-0488,https://gmarket.co.kr/,0,legitimate,Tranco,4023,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0489,https://letterboxd.com/,0,legitimate,Tranco,1030,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0490,https://q-r.to/bfJS16,1,phishing,PhishTank,8719115,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0491,https://docs.google.com/presentation/d/1SErzfoXAgq2tJBYpjXVcklcRnJM6YM90tmBEfxH0AAE/pub?start=false&amp;loop=false&amp;delayms=3000,1,phishing,PhishTank,8760038,Other,9,LOW RISK,1,phishing,True,1,LONG_URL
+PG-0492,https://qrco.de/bfH3Hf,1,phishing,PhishTank,8691465,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0493,https://docs.google.com/presentation/d/e/2PACX-1vRyvcDwlZ45y8LcVhK8AoHOyTeNpDhWagiGDsm_2AlhI8gPOcpOduQiZk-HHXoB1Blgb2KpPvylOvwZ/pub?start=false&amp;loop=false&amp;delayms=3000,1,phishing,PhishTank,9023837,Other,9,LOW RISK,1,phishing,True,1,LONG_URL
+PG-0494,https://apps-started-en.wixstudio.com/usen,1,phishing,PhishTank,9439629,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM
+PG-0495,https://q-r.to/bfQ2OP,1,phishing,PhishTank,8775306,Other,0,LOW RISK,0,legitimate,False,0,
+PG-0496,https://dbankcloud.ru/,0,legitimate,Tranco,897,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0497,https://nexon.com/,0,legitimate,Tranco,2640,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0498,https://wordpress.org/,0,legitimate,Tranco,48,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0499,https://youku.com/,0,legitimate,Tranco,931,top-ranked domain,0,LOW RISK,0,legitimate,True,0,
+PG-0500,https://incredible-culture-543388.framer.app/,1,phishing,PhishTank,9497008,Other,5,LOW RISK,1,phishing,True,1,HOSTED_PLATFORM

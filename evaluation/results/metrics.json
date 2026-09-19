@@ -1,0 +1,19 @@
+{
+  "generated_at_utc": "2026-09-19T20:25:27.515097+00:00",
+  "dataset": "/Users/nidhibyllupla/Downloads/PhishGuard_Evaluation_Upgrade-2/data/evaluation_dataset.csv",
+  "dataset_size": 500,
+  "phishing_samples": 250,
+  "legitimate_samples": 250,
+  "threshold": 5,
+  "tp": 125,
+  "tn": 246,
+  "fp": 4,
+  "fn": 125,
+  "accuracy": 0.742,
+  "precision": 0.9689922480620154,
+  "recall": 0.5,
+  "specificity": 0.984,
+  "f1": 0.6596306068601583,
+  "false_positive_rate": 0.016,
+  "false_negative_rate": 0.5
+}
