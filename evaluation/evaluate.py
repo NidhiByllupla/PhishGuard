@@ -194,10 +194,11 @@ def textwrap_cleanup(text):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--dataset", type=Path, default=DEFAULT_DATASET)
-    parser.add_argument("--threshold", type=int, default=40)
+    parser.add_argument("--threshold", type=int, default=5)
     args = parser.parse_args()
 
     if not 0 <= args.threshold <= 100:
+
         raise SystemExit("Threshold must be between 0 and 100.")
 
     RESULTS_DIR.mkdir(parents=True, exist_ok=True)
